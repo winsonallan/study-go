@@ -1,4 +1,4 @@
-package fileops
+package fileops // To be usable like this, the fileops.go needs to be put inside a folder named 'fileops'
 
 import (
 	"errors"
